@@ -6,5 +6,6 @@
 - 💬 Ask me about Java
 - 📫 How to reach me: pkapil@live.com
 - 🧬 My Webpage: https://pkapil.com
+- 🧬 My Blog: https://pkapil.github.io
 
 
